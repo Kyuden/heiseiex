@@ -19,5 +19,4 @@ defmodule TrotExample.Mixfile do
   end
 end
 
-  Plug.Adapters.Cowboy.http HerokuBuildpackWithPlug, [], port: 8080
 
