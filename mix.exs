@@ -18,3 +18,6 @@ defmodule TrotExample.Mixfile do
     [{:trot, github: "kyuden/trot", branch: "add_trot.server_task"}]
   end
 end
+
+  Plug.Adapters.Cowboy.http HerokuBuildpackWithPlug, [], port: 8080
+
