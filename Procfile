@@ -1,1 +1,1 @@
-web: mix trot.start
+web: mix trot.server
