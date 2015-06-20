@@ -5,4 +5,4 @@
   "plug_heartbeat": {:hex, :plug_heartbeat, "0.1.0"},
   "poison": {:hex, :poison, "1.4.0"},
   "ranch": {:hex, :ranch, "1.0.0"},
-  "trot": {:git, "git://github.com/hexedpackets/trot.git", "5c659ace9c94d8ef8e0788b110586cebd8e58d91", []}}
+  "trot": {:git, "git://github.com/kyuden/trot.git", "e7bbde24eb50ab7602b53d94d29ff3d3e8efc207", [branch: "add_trot.server_task"]}}

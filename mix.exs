@@ -15,6 +15,6 @@ defmodule TrotExample.Mixfile do
   end
 
   defp deps do
-    [{:trot, github: "hexedpackets/trot"}]
+    [{:trot, github: "kyuden/trot", branch: "add_trot.server_task"}]
   end
 end
